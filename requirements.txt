@@ -1,0 +1,9 @@
+Django>=5.2,<6
+channels>=4.3,<5
+channels-redis>=4.3,<5
+celery>=5.5,<6
+redis>=6,<7
+psycopg[binary]>=3.2,<4
+gunicorn>=23,<24
+uvicorn[standard]>=0.35,<1
+django-silk>=5.4,<6
