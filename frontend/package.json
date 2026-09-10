@@ -1,0 +1,27 @@
+{
+  "name": "ftnti-web",
+  "private": true,
+  "version": "0.1.0",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@tiktokshop/widget-kit-react": "latest",
+    "@tiktokshop/widget-kit": "latest",
+    "@tiktokopen/api-client": "latest",
+    "hls.js": "latest",
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "socket.io-client": "latest",
+    "video.js": "latest"
+  },
+  "devDependencies": {
+    "@types/node": "latest",
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "typescript": "latest"
+  }
+}
