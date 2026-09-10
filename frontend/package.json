@@ -11,11 +11,13 @@
     "@tiktokshop/widget-kit-react": "latest",
     "@tiktokshop/widget-kit": "latest",
     "@tiktokopen/api-client": "latest",
+    "@videojs/http-streaming": "latest",
     "hls.js": "latest",
     "next": "latest",
     "react": "latest",
     "react-dom": "latest",
     "socket.io-client": "latest",
+    "tiktok-pixel": "latest",
     "video.js": "latest"
   },
   "devDependencies": {
